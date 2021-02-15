@@ -1,8 +1,3 @@
-/*
-//	Student Name = Bora Öner 
-//	Student Id = 150170301
-//	Date = 10.12.2020
-//	
 //***************README*****************
 //	In this assignment the data read from the sales.txt file are stored in a datastructure called sale struct and an dynamic array is dynamically allocated space to hold these into an array
 //	The sorting algorithm used is Quick Sort Algorithm however, not only the Country names are sorted alphabetically but also in each country the total profits of the orders are sorted as decreasing manner
